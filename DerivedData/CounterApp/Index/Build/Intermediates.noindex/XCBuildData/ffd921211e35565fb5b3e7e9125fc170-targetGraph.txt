@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+CounterApp in CounterApp, no dependencies
+CounterApp in CounterApp, no dependencies
+CounterAppTests in CounterApp, depends on:
+CounterApp in CounterApp (explicit)
+CounterAppTests in CounterApp, depends on:
+CounterApp in CounterApp (explicit)
+CounterAppTests in CounterApp, no dependencies
+CounterAppUITests in CounterApp, depends on:
+CounterApp in CounterApp (explicit)
+CounterAppUITests in CounterApp, depends on:
+CounterApp in CounterApp (explicit)
+CounterAppUITests in CounterApp, no dependencies

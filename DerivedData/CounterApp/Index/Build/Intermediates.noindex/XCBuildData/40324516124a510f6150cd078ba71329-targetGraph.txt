@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+CounterApp in CounterApp, no dependencies
+CounterApp in CounterApp, no dependencies

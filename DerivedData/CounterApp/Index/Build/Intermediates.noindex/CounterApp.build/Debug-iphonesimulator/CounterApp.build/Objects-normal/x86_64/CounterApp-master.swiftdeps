@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "8c4cc6af5aa52971e01f674ffd838d93ae7f5fc1782ce61508382f6e0020383f"
+build_start_time: [1666903890, 657124042]
+build_end_time: [1666903900, 482568025]
+inputs:
+  "/Users/grigarazh/Projects/CounterApp/CounterApp/AppDelegate.swift": [1666903879, 915565013]
+  "/Users/grigarazh/Projects/CounterApp/CounterApp/SceneDelegate.swift": [1666903879, 929046154]
+  "/Users/grigarazh/Projects/CounterApp/CounterApp/ViewController.swift": [1666903879, 931210994]
